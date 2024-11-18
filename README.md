@@ -7,7 +7,7 @@
 
 - 🌱 Je suis en train d'apprendre le **JavaScript, Python, Html/CSS**
 
-- 👨‍💻 Retrouvez mon portfolio: [http://127.0.0.1:5500/portfolio.html)
+- 👨‍💻 Retrouvez mon portfolio: (https://yona-hammouchi.github.io/Yonahammouchi.github.io/)
 
 - 📫 How to reach me **yona.hammouchi@laplateforme.io**
 <br>
