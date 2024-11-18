@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @yona-hammouchi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Hi 👋, I'm Yona</h1>
+<h3 align="center">I am currently a beginner in computer science, studying at La Plateforme school</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<!---
-yona-hammouchi/yona-hammouchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 Passionnée par l’univers du développement web, je suis une ancienne assistante en ressources humaines qui a décidé de réorienter sa carrière vers un domaine où je trouve plus de sens et d’épanouissement personnel
+ **La Plateforme**
+
+- 🌱 Je suis en train d'apprendre **JavaScript, Python, Html/CSS**
+
+- 👨‍💻 Retrouvez mon portfolio: [http://127.0.0.1:5500/portfolio.html)
+
+- 📫 How to reach me **yona.hammouchi@laplateforme.io**
