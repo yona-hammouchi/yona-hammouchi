@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yona</h1>
+<br>
 <h3 align="center">Je suis débutante en informatique à l'école la plate-forme en anglais</h3>
+<br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 Passionnée par l’univers du développement web, je suis une ancienne assistante en ressources humaines qui a décidé de réorienter sa carrière vers un domaine où je trouve plus de sens et d’épanouissement personnel
