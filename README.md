@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Yona</h1>
 <br>
-<h3 align="center">Je suis débutante en informatique à l'école la plate-forme en anglais</h3>
+<h3 align="center">I am a beginner in computer science at the school La Plateforme.</h3>
 <br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 Passionnée par l’univers du développement web, je suis une ancienne assistante en ressources humaines qui a décidé de réorienter sa carrière vers un domaine où je trouve plus de sens et d’épanouissement personnel
+- 🔭 Passionate about the world of web development, I am a former human resources assistant who decided to shift my career towards a field where I find more meaning and personal fulfillment.
  **La Plateforme**
 
-- 🌱 Je suis en train d'apprendre le **JavaScript, Python, Html/CSS**
+- 🌱 I am currently learning about **JavaScript, Python, Html/CSS**
 
-- 👨‍💻 Retrouvez mon portfolio: (https://yona-hammouchi.github.io/Yonahammouchi.github.io/)
+- 👨‍💻 Check out my portfolio: (https://yona-hammouchi.github.io/Yonahammouchi.github.io/)
 
-- 📫 me contacter **yona.hammouchi@laplateforme.io**
+- 📫 contact me **yona.hammouchi@laplateforme.io**
 <br>
 <br>
 
